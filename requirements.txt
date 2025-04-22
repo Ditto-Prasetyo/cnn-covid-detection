@@ -2,6 +2,7 @@ tensorflow
 tensorflow.keras
 matplotlib
 scikit-learn
+scikit-metrics
 opencv-python
 numpy
 pandas
